@@ -1,4 +1,4 @@
-:root{
+:root{   /* "--xxxxx" = Padrão p/ Variáveis do CSS*/
 
     --branco: #FFF;
     --azul-claro: #DFE3E5;
@@ -16,6 +16,8 @@
     --planos-cartao-start: #56CCF2;
     --planos-cartao-ultra: #B04CD9;
     --planos-cartao-mega: #E33B3B;
+
+    --montserrat: 'Montserrat', serif;
 }
 
 
